@@ -1,4 +1,4 @@
-# README: Analysis of Bike-Sharing System in São Paulo
+# Analysis of Bike-Sharing System in São Paulo
 
 ## Objectives
 Bike-sharing systems, known for their environmental sustainability, offer advantages over individual bicycles, such as reduced concerns regarding maintenance and theft, increased versatility, and high availability (KON et al., 2022). These systems have been gaining traction and require statistical analyses to support strategic expansion to new regions.
